@@ -1,12 +1,17 @@
-# MAST30034 Project 1 README.md
-- Name: Prathyush Prashanth Rao
-- Student ID: 1102225
+# Comparing Trip Durations of CitiBikes vs Taxis
+- Author: Prathyush P Rao
 
-## README example
+## Research
 
 **Research Goal:** My research goal is to compare trip durations between CitiBikes and Taxis
 
 **Timeline:** The timeline for the research area is July 2020 to April 2022.
+
+## Report
+
+The report for the project which includes introduction, analysis, and recommendations is available in the `report` folder
+
+## Files
 
 To run the pipeline, please visit the `scripts` directory and run the files in order:
 1. run `pip install -r requirements.txt` in the command line to download the required packages (preferably in Python 3.9).
@@ -23,5 +28,5 @@ All other ipynb notebooks not mentioned have been you used for testing and expla
 
 ---
 
-Note: Required space to run this project is 30GB and around 2-3 hours of processing time. Note that if your jupyter or terminal crashes due to heap space issue, simply restart it and run it again as the cache would be full.
+Note: Required space to run this project is 30GB and around 2-3 hours of processing time. Further updates to come to help memory management.
 
